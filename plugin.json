@@ -1,0 +1,6 @@
+{
+  "name": "antigravity-pipeline-skills",
+  "description": "Disciplined development pipeline (stages 0-10) and pre-launch web/security audit skills for Google Antigravity",
+  "version": "1.0.0",
+  "author": "Antigravity Community (adapted from Magerko/claude-code-skills)"
+}
