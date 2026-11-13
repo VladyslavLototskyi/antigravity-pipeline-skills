@@ -124,9 +124,3 @@ chmod +x install-antigravity.sh
 3. **Безопасность запуска команд:** Инструмент `run_command` в Antigravity позволяет выполнять тесты и сетевые проверки (`curl`) с контролем фоновых процессов и тайм-аутов.
 
 ---
-
-## Лицензия
-
-MIT License — используйте, адаптируйте и расширяйте под процессы вашей команды.
-Оригинальная концепция: [@magerdev1](https://t.me/magerdev1).
-Адаптация под Google Antigravity: Antigravity Community.
