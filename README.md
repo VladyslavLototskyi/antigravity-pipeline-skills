@@ -2,11 +2,6 @@
 
 Набор профессиональных скиллов, правил и конфигураций субагентов для **Google Antigravity (AGY)**: Antigravity CLI (`agy`), Antigravity IDE и Antigravity 2.0.
 
-> [!NOTE]
-> Проект представляет собой глубокую адаптацию репозитория [Magerko/claude-code-skills](https://github.com/Magerko/claude-code-skills) под архитектуру харнесса Antigravity: поддержку Progressive Disclosure, нативную систему субагентов (`define_subagent` / `invoke_subagent`), изоляцию рабочих копий (`Workspace: branch/share`) и правила проекта `AGENTS.md`.
-
----
-
 ## Зачем это нужно
 
 Работая с современными LLM-ассистентами, разработчики регулярно сталкиваются с тремя фундаментальными проблемами:
